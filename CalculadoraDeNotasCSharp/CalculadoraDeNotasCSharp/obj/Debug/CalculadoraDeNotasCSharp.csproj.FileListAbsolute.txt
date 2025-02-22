@@ -1,7 +1,0 @@
-C:\Users\ACER\Desktop\Rafael\Faculdade\3 semestre\Programação Orientada a objeto\Aula\CalculadoraDeNotasCSharp\CalculadoraDeNotasCSharp\bin\Debug\CalculadoraDeNotasCSharp.exe.config
-C:\Users\ACER\Desktop\Rafael\Faculdade\3 semestre\Programação Orientada a objeto\Aula\CalculadoraDeNotasCSharp\CalculadoraDeNotasCSharp\bin\Debug\CalculadoraDeNotasCSharp.exe
-C:\Users\ACER\Desktop\Rafael\Faculdade\3 semestre\Programação Orientada a objeto\Aula\CalculadoraDeNotasCSharp\CalculadoraDeNotasCSharp\bin\Debug\CalculadoraDeNotasCSharp.pdb
-C:\Users\ACER\Desktop\Rafael\Faculdade\3 semestre\Programação Orientada a objeto\Aula\CalculadoraDeNotasCSharp\CalculadoraDeNotasCSharp\obj\Debug\CalculadoraDeNotasCSharp.csproj.AssemblyReference.cache
-C:\Users\ACER\Desktop\Rafael\Faculdade\3 semestre\Programação Orientada a objeto\Aula\CalculadoraDeNotasCSharp\CalculadoraDeNotasCSharp\obj\Debug\CalculadoraDeNotasCSharp.csproj.CoreCompileInputs.cache
-C:\Users\ACER\Desktop\Rafael\Faculdade\3 semestre\Programação Orientada a objeto\Aula\CalculadoraDeNotasCSharp\CalculadoraDeNotasCSharp\obj\Debug\CalculadoraDeNotasCSharp.exe
-C:\Users\ACER\Desktop\Rafael\Faculdade\3 semestre\Programação Orientada a objeto\Aula\CalculadoraDeNotasCSharp\CalculadoraDeNotasCSharp\obj\Debug\CalculadoraDeNotasCSharp.pdb
